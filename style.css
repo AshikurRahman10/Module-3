@@ -94,3 +94,6 @@ p {
 .baby {
   box-shadow: 0 0 8px 4px rgb(139, 137, 137);
 }
+.copy p {
+  text-align: center;
+}
